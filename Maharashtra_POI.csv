@@ -1,0 +1,373 @@
+id,name,city,category,description,ideal_duration_hours,best_time_to_visit,lat,lon
+1,Shani Shingnapur Temple,Ahilyanagar,Religious & Spiritual,Famous roofless temple of Lord Shani,1,All Year,19.5864,75.3279
+2,Bhandardara Lake,Ahilyanagar,Nature & Scenic,Scenic lake popular for camping,2,All Year,19.5331,73.7563
+3,Ratangad Fort,Ahilyanagar,Historical & Cultural,Famous trekking fort near Bhandardara,4,Oct-Mar,19.037,73.679
+4,Kalsubai Peak,Ahilyanagar,Wildlife & Adventure,Highest peak in Maharashtra,5,Oct-Mar,19.603193,73.70902
+5,Harishchandragad,Ahilyanagar,Historical & Cultural,Trekking fort famous for Konkan Kada,5,Oct-Mar,19.3884,73.7603
+6,Bhandardara Dam,Ahilyanagar,Nature & Scenic,Famous camping and firefly hotspot,3,Nov-Feb,19.5322,73.7377
+7,Ratangad Fort,Ahilyanagar,Historical & Cultural,Historic fort overlooking Bhandardara,3,Nov-Feb,19.5372,73.7274
+8,Wilson Dam,Ahilyanagar,Nature & Scenic,Old dam creating Arthur Lake,1.5,Nov-Feb,19.5317,73.7418
+9,Kalsubai Peak,Ahilyanagar,Wildlife & Adventure,Highest peak of Maharashtra,5,Oct-Feb,19.6019,73.7096
+10,Bhimashankar Wildlife Sanctuary,Bhimashankar,Sanctuary,Forest and temple,3.5,Oct-Feb,19.0704,73.53389
+11,Bhimashankar Temple,Bhimashankar,Religious & Spiritual,Jyotirlinga temple in forest,3,Oct-Feb,19.073254,73.54409
+12,Bhimashankar Sanctuary View,Bhimashankar,Nature & Scenic,Lookouts over dense forest,1.5,Oct-Feb,19.07,73.534
+13,Ajanta Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Amazing Buddhist cave paintings,4,Nov-Feb,20.55186,75.703332
+14,Ellora Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Monolithic Kailasa temple and caves,4,Nov-Feb,20.026821,75.178116
+15,Grishneshwar Temple,Chhatrapati Sambhaji Nagar ,Religious & Spiritual,Jyotirlinga close to Ellora,1,All Year,20.029159,75.178067
+16,Bibi Ka Maqbara,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Marble mausoleum often called 'Taj of Deccan',1.5,Oct-Feb,19.901869,75.327163
+17,Daulatabad Fort,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Imposing hill fort near Chhatrapati Sambhaji Nagar,2.5,Nov-Feb,19.947647,75.221443
+18,Chhatrapati Sambhaji Nagar Caves,Chhatrapati Sambhaji Nagar ,Nature & Scenic,Buddhist rock-cut caves,1.5,Nov-Feb,19.931559,75.296432
+19,Panchakki,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Historic water mill and gardens,1,All Year,19.892902,75.317497
+20,Siddharth Garden & Zoo,Chhatrapati Sambhaji Nagar ,Nature & Scenic,Local zoo and green space,1.5,All Year,19.900274,75.324364
+21,Salim Ali Lake,Chhatrapati Sambhaji Nagar ,Nature & Scenic,Birdwatching lake near city,1,Oct-Mar,19.915739,75.319138
+22,Himayat Bagh,Chhatrapati Sambhaji Nagar ,Nature & Scenic,Mughal-era garden and nursery,1,All Year,19.90956,75.31552
+23,Ellora Historical & Cultural Walk,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Guided walking route around Ellora ,1.5,Oct-Feb,20.026,75.178
+24,Ajanta Sunset Point,Chhatrapati Sambhaji Nagar ,Nature & Scenic,Sunset viewpoint near Ajanta,0.75,Nov-Feb,20.552,75.704
+25,Ajanta Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Rock-cut caves with ancient murals,3,Oct-Mar,20.55186,75.703311
+26,Ellora Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,34 monasteries and temples carved in rock,3,Oct-Mar,20.026789,75.179089
+27,Daulatabad Fort,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Massive medieval fort,3,Oct-Mar,19.9975,75.2207
+28,Bibi Ka Maqbara,Chhatrapati Sambhaji Nagar ,Historical & Cultural,“Mini Taj Mahal” of the Deccan,1.5,All Year,19.915623,75.320274
+29,Panchakki,Chhatrapati Sambhaji Nagar ,Historical & Cultural,17th-century water mill and garden,1,All Year,19.871172,75.330954
+30,Pandav Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Ancient cave complex,2,Oct-Feb,19.9223,75.2941
+31,Bibi Ka Maqbara,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Taj Mahal-like tomb built in 1600s,1.5,Oct-Feb,19.9016,75.32
+32,Panchakki,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Mughal-era water mill,1,Oct-Feb,19.8775,75.3154
+33,Suntek Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Ancient caves lesser-known than Ajanta,2,Oct-Feb,20.1252,75.2386
+34,Ellora Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Historical & Cultural World Historical & Cultural Hindu-Buddhist-Jain caves,3,Oct-Feb,20.0253,75.1792
+35,Ajanta Caves,Chhatrapati Sambhaji Nagar ,Historical & Cultural,World-famous Historical & Cultural Buddhist caves,4,Oct-Feb,20.5522,75.7034
+36,Daulatabad Fort,Chhatrapati Sambhaji Nagar ,Historical & Cultural,Mighty hill fort with steep climb,3,Oct-Feb,19.9437,75.2213
+37,Grishneshwar Temple,Chhatrapati Sambhaji Nagar ,Religious & Spiritual,One of the 12 Jyotirlingas,1,All Year,20.0288,75.2007
+38,Swayambhu Ganpati Temple,Dapoli,Religious & Spiritual,Seafront Ganpati temple,1,All Year,17.7703,73.1922
+39,Unhavare Hot Springs,Dapoli,Nature & Scenic,Natural hot water springs,1.5,All Year,17.7985,73.2614
+40,Harnai Fish Market,Dapoli,Urban & Modern Attractions,Famous evening fish auction market,1.5,All Year,17.8531,73.1649
+41,Suvarnadurg Fort,Dapoli,Historical & Cultural,Historic sea fort,2,Oct-Feb,17.8639,73.1669
+42,Diveagar Beach,Diveagar,Beaches & Waterfront,Calm beach with fishing village nearby,2.5,Nov-Feb,18.155178,72.984727
+43,Harihareshwar Beach,Harihareshwar,Beaches & Waterfront,Pilgrim beach known as Dakshin Kashi,2,Nov-Feb,17.994876,73.017731
+44,Jaigad Fort,Jaigad,Historical & Cultural,Coastal fort with sea vistas,1.5,Nov-Feb,17.303689,73.226358
+45,Vigneshwar Temple,Junnar,Religious & Spiritual,Ashtavinayak temple known for golden dome,1.5,All year,19.211,73.9898
+46,Girijatmak Temple,Junnar,Religious & Spiritual,Hill cave temple part of Ashtavinayak circuit,2,Oct-Mar,19.2927,73.8682
+47,Radhanagari Wildlife Sanctuary,Kolhapur ,Wildlife & Adventure,Broadleaf forest and bison habitat,4,Nov-May,16.415171,73.945043
+48,Mahalaxmi Temple,Kolhapur ,Religious & Spiritual,Famous Shaktipeeth temple in Kolhapur,1.5,All Year,16.695635,74.233105
+49,Kolhapur Rankala Lake,Kolhapur ,Nature & Scenic,Central lake with promenade,1,Oct-Mar,16.70824,74.23925
+50,New Palace (Kolhapur),Kolhapur ,Historical & Cultural,Historic royal palace museum,1.5,Oct-Mar,16.694848,74.240257
+51,Bhagwati Temple (Kolhapur),Kolhapur ,Religious & Spiritual,Ancient temple complex,1,All Year,16.6958,74.2329
+52,Panhala Fort,Kolhapur ,Historical & Cultural,Large fort with historical importance,2.5,Oct-Mar,16.81,74.123
+53,Chhatrapati Sambhaji Maharaj Smarak,Kolhapur ,Historical & Cultural,Statue and park area,0.75,All Year,16.703,74.237
+54,Magan Sangrahalaya,Kolhapur ,Historical & Cultural,al cultural museum exhibits,1.5,All Year,16.697,74.235
+55,Pawankhind,Kolhapur ,Historical & Cultural,War memorial of Baji Prabhu Deshpande,1,All Year,16.2245,73.7659
+56,Rankala Lake,Kolhapur ,Nature & Scenic,Beautiful lake and garden for evening walks,1.5,All Year,16.6952,74.218
+57,Mahalaxmi Temple,Kolhapur ,Religious & Spiritual,Ancient temple dedicated to Goddess Ambabai,1,All Year,16.6956,74.2293
+58,New Palace Museum,Kolhapur ,Historical & Cultural,Palace museum of Kolhapur royalty,1.5,All Year,16.6869,74.2431
+59,Panhalgad Fort,Kolhapur ,Historical & Cultural,Historic fort near Kolhapur,3,Oct-Mar,16.812,74.108
+60,Kopeshwar Temple,Kolhapur ,Religious & Spiritual,Architectural Shiva temple,1.5,All Year,17.3555,74.5422
+61,Panhala Fort,Kolhapur ,Historical & Cultural,Historic hill fort with scenic views,2,Oct-Feb,16.8128,74.1173
+62,Rankala Lake,Kolhapur ,Nature & Scenic,Lake promenade with food stalls,1.5,All Year,16.7076,74.2001
+63,Mahalaxmi Temple,Kolhapur ,Religious & Spiritual,Major Shakti Peeth with heavy devotees,1,All Year,16.6953,74.233
+64,New Palace Museum,Kolhapur ,Historical & Cultural,Museum showcasing royal artifacts,1.5,All Year,16.6882,74.2489
+65,Gagangad Fort,Kolhapur ,Historical & Cultural,Fort in Western Ghats with trekking trail,3,Nov-Feb,16.4958,74.0739
+66,Khasbag Wrestling Stadium,Kolhapur ,Urban & Modern Attractions,Historic wrestling ground,1,All Year,16.6956,74.2438
+67,Kataldhar Waterfall,Lonavala - Khandala,Trekking & Adventure,Massive hidden waterfall requiring rappelling route,2,Jul-Sep,18.735,73.4503
+68,Lonavala Market,Lonavala - Khandala,Urban & Modern Attractions,Local market and chikki shops,1,Sep-Feb,18.74806,73.40722
+69,Lohagad Fort,Lonavala - Khandala,Historical & Cultural,Popular monsoon trek fort,2,Oct-Feb,18.710433,73.474369
+70,Visapur Fort,Lonavala - Khandala,Historical & Cultural,Plateau fort next to Lohagad,3,Oct-Feb,18.710971,73.479516
+71,Khandala Viewpoint,Lonavala - Khandala,Nature & Scenic,Scenic ridge overlooking valley,1.5,Sep-Feb,18.75811,73.373561
+72,Tikona Fort,Lonavala - Khandala,Historical & Cultural,Triangular hill fort with lake views,2,Oct-Feb,18.686547,73.481213
+73,Korigad Fort,Lonavala - Khandala,Historical & Cultural,Smaller fort with great views,2,Oct-Feb,18.759,73.435
+74,Karla,Lonavala - Khandala,Nature & Scenic,Ancient Buddhist rock-cut caves on trade route,2.5,Oct-Mar,18.0103,73.7487
+75,Bhaje Caves,Lonavala - Khandala,Nature & Scenic,Rock-cut Buddhist caves and steps,1.5,Oct-Mar,18.793,73.474
+76,Karjat Kondana Caves,Lonavala - Khandala,Nature & Scenic,Green hill caves and trek,2,Oct-Mar,18.944,73.333
+77,Lonavala Lake,Lonavala - Khandala,Nature & Scenic,Popular lake surrounded by lush greenery,1,Jun-Sep,18.752176,73.419452
+78,Tiger's Leap,Lonavala - Khandala,Nature & Scenic,Cliff-top viewpoint with valley views,1,Oct-Mar,18.7587,73.4208
+79,Bhushi Dam,Lonavala - Khandala,Nature & Scenic,Crowd-favorite monsoon spot with gushing water,1.5,Jun-Sep,18.740949,73.400791
+80,Bhaja Caves,Lonavala - Khandala,Nature & Scenic,Rock-cut caves dating back to 2nd century BC,1.5,Oct-Mar,18.7458,73.4793
+81,Rajmachi Point,Lonavala - Khandala,Nature & Scenic,Viewpoint overlooking the valley,1,Oct-Mar,18.752772,73.434821
+82,Rajmachi Fort,Lonavala - Khandala,Historical & Cultural,Trekking fort with scenic view,4,Oct-Mar,18.837012,73.403465
+83,Tungarli Lake,Lonavala - Khandala,Nature & Scenic,Peaceful lake suitable for picnics,1,All Year,18.754402,73.419302
+84,Bhaja Caves,Lonavala - Khandala,Historical & Cultural,Stone caves with scenic valley views,2,Oct-Feb,18.73439,73.48147
+85,Lions Point,Lonavala - Khandala,Nature & Scenic,Famous sunset and monsoon viewpoint,1,Jul-Feb,18.71105,73.47172
+86,Kune Falls,Lonavala - Khandala,Nature & Scenic,Popular three-tiered waterfall,1.5,Jul-Sep,18.75585,73.39319
+87,Bushi Dam,Lonavala - Khandala,Nature & Scenic,Famous monsoon spot with gushing water,2,Jul-Sep,18.75753,73.43406
+88,Khandala Sunset Point,Lonavala - Khandala,Nature & Scenic,Beautiful sunset viewpoint near highway,0.5,Oct-Feb,18.76772,73.38064
+89,Rajmachi Fort,Lonavala - Khandala,Historical & Cultural,Famous twin fort with trekking route via Lonavala,4,Nov-Feb,18.7862,73.3895
+90,Korigad Fort,Lonavala - Khandala,Historical & Cultural,Popular easy trek near Aamby Valley,3,Nov-Feb,18.6188,73.4603
+91,Tikona Fort,Lonavala - Khandala,Historical & Cultural,Triangular hill fort offering valley views,3,Nov-Feb,18.6673,73.5337
+92,Tung Fort,Lonavala - Khandala,Historical & Cultural,Conical fort rising above Pawna Lake,3,Nov-Feb,18.6502,73.5006
+93,Visapur Fort,Lonavala - Khandala,Historical & Cultural,Massive fort popular in monsoon trekking season,4,Jul-Oct,18.7381,73.4787
+94,Lohagad Fort,Lonavala - Khandala,Historical & Cultural,Historic fort famous for monsoon hikes,3,Jul-Feb,18.7102,73.4823
+95,Pawna Lake,Lonavala - Khandala,Nature & Scenic,Famous camping site with lakeside views,3,Oct-Mar,18.6517,73.4549
+96,Bedse Caves,Lonavala - Khandala,Historical & Cultural,Lesser-known Buddhist caves with carvings,2,Oct-Feb,18.704,73.5465
+97,Panchgani Town,Mahabaleshwar-Panchgani ,Nature & Scenic,Tableland and viewpoints,2.5,Oct-Mar,17.928994,73.800774
+98,Mapro Garden,Mahabaleshwar-Panchgani ,Nature & Scenic,Strawberry farm and tourist spot,1.5,Oct-Mar,17.952156,73.490852
+99,Arthur Seat Point,Mahabaleshwar-Panchgani ,Nature & Scenic,Popular cliff viewpoint,0.75,Oct-Mar,17.925965,73.646295
+100,Wilson Point,Mahabaleshwar-Panchgani ,Nature & Scenic,Sunrise viewpoint,0.75,Oct-Mar,17.923811,73.675998
+101,Tung Fort,Mahabaleshwar-Panchgani ,Historical & Cultural,Popular trek with panoramic views,2.5,Oct-Mar,17.9235,73.7862
+102,Bhimakali Temple (Mahabaleshwar),Mahabaleshwar-Panchgani ,Religious & Spiritual,Local temple near markets,0.75,Oct-Mar,17.925,73.657
+103,Mapro Chocolate Factory,Mahabaleshwar-Panchgani ,Urban & Modern Attractions,Factory tours and tasting,1,Oct-Mar,17.954,73.482
+104,Panchgani Table Land View,Mahabaleshwar-Panchgani ,Nature & Scenic,Open flat plateau viewpoints,1.5,Oct-Mar,17.929,73.802
+105,Pratapgad Fort,Mahabaleshwar-Panchgani ,Historical & Cultural,Historical hill fort built by Shivaji Maharaj,3,Oct-Mar,17.930278,73.563889
+106,Venna Lake,Mahabaleshwar-Panchgani ,Nature & Scenic,Popular boating lake surrounded by greenery,1.5,All Year,17.92589,73.65738
+107,Mapro Garden,Mahabaleshwar-Panchgani ,Nature & Scenic,Strawberry garden with eateries & shopping,1,Nov-Mar,17.923601,73.722526
+108,Elephant's Head Point,Mahabaleshwar-Panchgani ,Nature & Scenic,Famous viewpoint shaped like an elephant's head,1,All Year,17.94419,73.676193
+109,Wilson Point,Mahabaleshwar-Panchgani ,Nature & Scenic,Highest point with sunrise views,1,All Year,17.947016,73.646805
+110,Table Land,Mahabaleshwar-Panchgani ,Nature & Scenic,Second longest plateau in Asia,1.5,All Year,17.9242,73.8047
+111,Parsi Point,Mahabaleshwar-Panchgani ,Nature & Scenic,Valley viewpoint with scenic views,1,All Year,17.933888,73.811831
+112,Harrison's Folly,Mahabaleshwar-Panchgani ,Nature & Scenic,Flat viewpoint ideal for paragliding,1,All Year,17.937648,73.816802
+113,Devil's Kitchen,Mahabaleshwar-Panchgani ,Nature & Scenic,Cave structures believed to be from Mahabharata era,1,All Year,17.9351,73.7988
+114,Lingmala Waterfall,Mahabaleshwar-Panchgani ,Nature & Scenic,Beautiful waterfall in lush forest,1.5,Jul-Oct,17.942732,73.6587
+115,Matheran Town,Matheran,Nature & Scenic,Toy-train hill station with no vehicles,2.5,Oct-Mar,18.988658,73.271049
+116,Gateway of India,Mumbai ,Historical & Cultural,Iconic arch overlooking Arabian Sea,1.5,Oct-Mar,18.921984,72.834654
+117,Marine Drive,Mumbai ,Beaches & Waterfront,Sea-facing boulevard known as Queen's Necklace,1,Oct-Mar,18.943184,72.823248
+118,Juhu Beach,Mumbai ,Beaches & Waterfront,Popular beach for sunset and street food,2,Oct-Mar,19.088359,72.826523
+119,Colaba Causeway,Mumbai ,Urban & Modern Attractions,Busy shopping street near Gateway of India,2,Oct-Mar,18.921699,72.830504
+120,Elephanta Caves,Mumbai ,Historical & Cultural,Rock-cut caves on Elephanta Island,3,Nov-Mar,18.963347,72.931564
+121,Siddhivinayak Temple,Mumbai ,Religious & Spiritual,Popular Ganesh temple with heavy pilgrim flow,1,All Year,19.017614,72.830348
+122,Haji Ali Dargah,Mumbai ,Religious & Spiritual,Mosque on a small islet connected by causeway,1,Oct-Mar,18.982326,72.808068
+123,CSMVS Museum,Mumbai ,Historical & Cultural,Art & history museum formerly Prince of Wales Museum,2,All Year,18.926093,72.832555
+124,Sanjay Gandhi National Park,Mumbai ,Wildlife & Adventure,Large green park with Kanheri Caves,3,Oct-Mar,19.214706,72.883554
+125,Kanheri Caves,Mumbai ,Nature & Scenic,Buddhist rock-cut caves inside SGNP,3,Oct-Mar,19.214925,72.905592
+126,Bandra-Worli Sea Link,Mumbai ,Bridge,Iconic modern cable-stayed bridge,0.5,All Year,19.036652,72.814106
+127,Girgaum Chowpatty,Mumbai ,Beaches & Waterfront,Popular city beach with local snacks,1,Oct-Mar,18.954214,72.812401
+128,Film City,Mumbai ,Urban & Modern Attractions,Major film production complex and tours,3,All Year,19.155943,72.869439
+129,Hanging Gardens,Mumbai ,Nature & Scenic,Terraced garden with city views,1,Oct-Mar,18.95652,72.810238
+130,Taraporewala Aquarium,Mumbai ,Beaches & Waterfront,Historic public aquarium,1,All Year,18.954913,72.812353
+131,Bandstand Promenade,Mumbai ,Beaches & Waterfront,Seafront promenade and celebrity homes,1,Oct-Mar,19.054428,72.816693
+132,Worli Fort,Mumbai ,Historical & Cultural,Historic British-era fort,1,All Year,18.9912,72.8159
+134,Kanheri Plateau View,Mumbai ,Nature & Scenic,Panoramic viewpoint over caves,0.75,Oct-Mar,19.215,72.906
+135,Stok Monastery Style Temple,Mumbai ,Religious & Spiritual,Small serene temple for meditation,0.75,All Year,19.23,72.8
+136,Malshej Ghat,Mumbai ,Nature & Scenic,Misty mountain pass with waterfalls,2,Jun-Sep,19.318,73.778
+137,Upvan Lake,Mumbai ,Nature & Scenic,Famous lake with art festivals,1,All Year,19.2432,72.9721
+138,Tikuji-ni-Wadi,Mumbai ,Urban & Modern Attractions,Amusement and water park,3,All Year,19.2569,72.9894
+139,Kopri Fort,Mumbai ,Historical & Cultural,Remains of old coastal fort,1,All Year,19.1832,72.9667
+140,Owala Lake,Mumbai ,Nature & Scenic,Quiet lake for picnics,1,All Year,19.2674,72.9587
+141,Yeur Hills,Mumbai ,Nature & Scenic,Green trekking and nature trails,2,Oct-Mar,19.2583,72.9459
+142,Nerul Lake,Mumbai ,Nature & Scenic,Peaceful lake with jogging track,1,All Year,19.023,73.0163
+143,Kharghar Hills,Mumbai ,Nature & Scenic,Popular hiking and monsoon point,2,Jun-Sep,19.0737,73.0653
+144,Belapur Fort,Mumbai ,Historical & Cultural,Ruins of fort built by Siddis,1,All Year,19.0183,73.0309
+145,Wonders Park,Mumbai ,Nature & Scenic,Mini monuments-themed amusement park,2,All Year,19.0079,73.0138
+146,Parsik Hill,Mumbai ,Nature & Scenic,Viewpoint popular for sunsets,1,All Year,19.1959,73.0309
+147,Lalbaug Flower Market,Mumbai ,Urban & Modern Attractions,Famous wholesale flower market active early morning,1,All Year,18.99382,72.83054
+148,Prithvi Theatre,Mumbai ,Urban & Modern Attractions,Legendary performing arts theatre in Juhu,2,All Year,19.11342,72.82856
+149,Madh Fort,Mumbai ,Historical & Cultural,Hidden Portuguese fort near Madh Island,1.5,Nov-Mar,19.14389,72.78632
+150,Aksa Beach,Mumbai ,Beaches & Waterfront,Quiet less crowded beach ideal for sunset walks,2,Nov-Mar,19.17365,72.79248
+151,Worli Sea Link View Point,Mumbai ,Nature & Scenic,Best spot to view iconic Bandra-Worli Sea Link,0.5,All Year,19.01753,72.81845
+152,Global Vipassana Pagoda,Mumbai ,Historical & Cultural,Golden meditation dome offering island views,2,Nov-Feb,19.21489,72.79345
+153,Sanjay Gandhi National Park,Mumbai ,Nature & Scenic,Huge urban forest with wildlife and Kanheri Caves,3,Nov-Feb,19.21465,72.91035
+154,Borivali National Park Caves,Mumbai ,Historical & Cultural,Ancient Buddhist caves inside SGNP,2,Nov-Feb,19.21414,72.91064
+155,Karnala Bird Sanctuary,Mumbai ,Wildlife & Adventure,Popular bird sanctuary and trekking spot,3,Nov-Feb,18.88322,73.10841
+156,Gadeshwar Dam,Mumbai ,Nature & Scenic,Scenic dam with photography spots,1,All Year,18.94422,73.18053
+157,Balaji Temple,Mumbai ,Religious & Spiritual,Scenic modern temple inspired by Tirupati,1.5,All Year,18.78443,73.32892
+158,Zenith Falls,Mumbai ,Nature & Scenic,Famous monsoon waterfall trek,1.5,Jul-Sep,18.78084,73.32997
+159,Imagicaa Theme Park,Mumbai ,Urban & Modern Attractions,India's top amusement park,5,Nov-Feb,18.77126,73.32119
+160,Imagicaa Water Park,Mumbai ,Urban & Modern Attractions,Large water park within Imagicaa complex,4,Apr-Jun,18.77224,73.32058
+161,Mahalaxmi Temple,Mumbai ,Religious & Spiritual,Famous Hindu temple dedicated to Goddess Mahalakshmi,1,All Year,18.977527,72.81649
+162,Deekshabhoomi,Nagpur - Vidarbha ,Historical & Cultural,Buddhist stupa and pilgrimage spot,1,All Year,21.124991,79.070639
+163,Ambazari Lake,Nagpur - Vidarbha ,Nature & Scenic,Large urban lake good for walks,1.5,Oct-Mar,21.14583,79.041878
+164,Futala Lake,Nagpur - Vidarbha ,Nature & Scenic,Popular lakeside evening hangout,1,Oct-Mar,21.146706,79.048766
+165,Gorewada Zoo & Bio-Park,Nagpur - Vidarbha ,Wildlife & Adventure,Safari and wildlife experiences,3,Oct-Mar,21.194592,79.034691
+166,Dragon Palace Temple,Nagpur - Vidarbha ,Religious & Spiritual,Peaceful Japanese-style temple,1,All Year,21.238819,79.197224
+167,Sitabuldi Fort,Nagpur - Vidarbha ,Historical & Cultural,Historic fort with city views,1,Oct-Mar,21.145755,79.088129
+168,Khindsi Lake,Nagpur - Vidarbha ,Nature & Scenic,Adventure & boating at Khindsi,2,Oct-Mar,21.389289,79.312183
+169,Tadoba Andhari Tiger Reserve,Nagpur - Vidarbha ,Wildlife & Adventure,Major tiger reserve with safaris,5,Nov-May,20.235279,79.335374
+170,Pench National Park,Nagpur - Vidarbha ,Wildlife & Adventure,Rich biodiversity and tiger sightings,5,Nov-May,21.65251,79.164422
+171,Lonar Crater Lake,Nagpur - Vidarbha ,Nature & Scenic,Unique meteor impact lake,3,Oct-Mar,19.976531,76.522995
+172,Hazur Sahib,Nagpur - Vidarbha ,Religious & Spiritual,Historic Sikh takht and pilgrimage site,2,All Year,19.164498,77.314379
+173,Umred Karhandla Wildlife Sanctuary,Nagpur - Vidarbha ,Wildlife & Adventure,Rich in flora and fauna,4,Nov-May,20.883,79.36
+174,Chikhaldara Hill Station,Nagpur - Vidarbha ,Nature & Scenic,Less-explored plateau with wildlife,3,Oct-Mar,21.136,77.743
+175,Melghat Tiger Reserve,Nagpur - Vidarbha ,Wildlife & Adventure,Tiger reserve and dense forests,5,Nov-May,21.398,76.435
+176,Kusumagraj Smarak,Nagpur - Vidarbha ,Historical & Cultural,Local cultural memorial site,0.75,All Year,21.145,79.08
+177,Mahabodhi Society,Nagpur - Vidarbha ,Religious & Spiritual,Buddhist meditation center and temple,1,All Year,21.1316,79.0912
+178,Sitabuldi Fort,Nagpur - Vidarbha ,Historical & Cultural,Historic fort in central Nagpur,1,All Year,21.1462,79.0839
+179,Deekshabhoomi,Nagpur - Vidarbha ,Historical & Cultural,Buddhist stupa and important pilgrimage site,1,All Year,21.131889,79.068703
+180,Futala Lake,Nagpur - Vidarbha ,Nature & Scenic,Famous lake with evening fountain shows,1,All Year,21.159067,79.059128
+181,Japanese Rose Garden,Nagpur - Vidarbha ,Nature & Scenic,Lush garden with walking paths,1,All Year,21.1537,79.0888
+182,Railway Museum,Nagpur - Vidarbha ,Historical & Cultural,Historic rail engines & exhibits,1.5,All Year,21.1594,79.0825
+183,Ambazari Lake,Nagpur - Vidarbha ,Nature & Scenic,Lake with walking track & boating,1.5,All Year,21.1489,79.0598
+184,Khekranala Lake,Nagpur - Vidarbha ,Nature & Scenic,Beautiful lake with trekking,3,Nov-Feb,21.3696,79.1461
+185,Japanese Garden,Nagpur - Vidarbha ,Nature & Scenic,Peaceful Japanese-style garden,1.5,All Year,21.1325,79.065
+186,Ramtek Fort,Nagpur - Vidarbha ,Historical & Cultural,Historic fort with panoramic views,2,Nov-Feb,21.3957,79.3289
+187,Deeksha Bhoomi,Nagpur - Vidarbha ,Historical & Cultural,Major Buddhist monument & stupa,1.5,All Year,21.1317,79.0634
+188,Zero Mile Stone,Nagpur - Vidarbha ,Historical & Cultural,Historic marker for India's center,0.5,All Year,21.1463,79.0881
+189,Nagzira Wildlife Sanctuary,Nagpur - Vidarbha ,Wildlife & Adventure,Tiger reserve with jeep safaris,4,Nov-Feb,21.2815,80.0203
+190,Tadoba Tiger Reserve,Nagpur - Vidarbha ,Wildlife & Adventure,Major tiger reserve for safaris,4,Oct-Mar,20.1967,79.3495
+191,Chikhaldara View Point,Nagpur - Vidarbha ,Nature & Scenic,Hill station with panoramic ghat views,1.5,Oct-Feb,21.4175,77.3378
+192,Bhimkund Waterfall,Nagpur - Vidarbha ,Nature & Scenic,Monsoon waterfall near forests,1.5,Jul-Sep,21.6447,77.299
+193,Gugamal National Park,Nagpur - Vidarbha ,Wildlife & Adventure,Part of Melghat Tiger Reserve,4,Oct-Mar,21.458,77.1399
+194,Narnala Fort,Nagpur - Vidarbha ,Historical & Cultural,Giant medieval fort in Satpura Hills,3,Nov-Feb,21.3593,77.0824
+195,Saputara Hill Station,Nagpur - Vidarbha ,Nature & Scenic,Cool hill station bordering Gujarat,3,Oct-Feb,20.5818,73.7567
+196,Toranmal,Nagpur - Vidarbha ,Nature & Scenic,Quiet hill station with lakes and sunset points,3,Nov-Feb,21.848,74.9167
+197,Asthamba Temple,Nagpur - Vidarbha ,Religious & Spiritual,Famous tribal pilgrimage site,1.5,All Year,21.6836,74.5531
+198,Laling Fort,Nagpur - Vidarbha ,Historical & Cultural,Ruins of fort on a hill,1.5,Nov-Feb,20.8851,74.7777
+199,Sulwade Barrage,Nagpur - Vidarbha ,Nature & Scenic,Lake with scenic views,1,All Year,20.9724,74.9395
+200,Songir Fort,Nagpur - Vidarbha ,Historical & Cultural,Lesser-known fort with valley views,2,Nov-Feb,21.0822,74.7781
+201,Aundha Nagnath Temple,Nagpur - Vidarbha ,Religious & Spiritual,Jyotirlinga temple with huge devotees,2,All Year,19.9192,77.1839
+202,Mahur Gad,Nagpur - Vidarbha ,Historical & Cultural,Hill fort famous for temples of Renuka Mata,2,All Year,19.4442,77.9703
+203,Kandhar Fort,Nagpur - Vidarbha ,Historical & Cultural,Ancient fort near river,2,Nov-Feb,19.6531,77.1325
+204,Sahastrakund Waterfall,Nagpur - Vidarbha ,Nature & Scenic,Widely visited waterfall on Penganga river,1.5,Jul-Sep,19.0648,77.9797
+205,Kaleshwar Temple,Nagpur - Vidarbha ,Religious & Spiritual,Riverside Shiva temple,1,All Year,19.1652,77.7138
+206,Sula Vineyards,Nashik ,Vineyard,Famous winery with tours and tasting,3,Nov-Feb,20.011247,73.744761
+207,Trimbakeshwar Temple,Nashik ,Religious & Spiritual,Ancient Jyotirlinga temple near Trimbak,2,All Year,19.933508,73.542724
+208,Pandavleni Caves,Nashik ,Nature & Scenic,Buddhist caves with hill views,1.5,Oct-Feb,19.940403,73.760186
+209,Anjaneri Hills,Nashik ,Wildlife & Adventure,Hill tied to Hanuman legend,3,Nov-Feb,19.951614,73.566202
+210,Kalaram Temple,Nashik ,Religious & Spiritual,Historic Ram temple in Nashik,1,All Year,20.002432,73.790028
+211,Gangapur Dam,Nashik ,Nature & Scenic,Scenic waterside for picnics,1.5,Oct-Feb,19.997337,73.71299
+212,Coin Museum,Nashik ,Historical & Cultural,Unique coin collection exhibitions,1,All Year,19.940097,73.731496
+213,Saptashrungi Devi Temple,Nashik ,Religious & Spiritual,Important hill shrine near Vani,2,Oct-Mar,20.365601,74.216721
+214,Kalsubai Peak,Nashik ,Nature & Scenic,Highest peak in Maharashtra hike,6,Oct-Mar,19.571111,73.636667
+215,Naroshankar Temple,Nashik ,Religious & Spiritual,Historic riverside temple,1,All Year,19.99782,73.77999
+216,Ramkund,Nashik ,Nature & Scenic,Ghat area sacred to Hindus,1,All Year,19.99783,73.78644
+217,Pandav Leni Caves,Nashik ,Historical & Cultural,Ancient rock-cut caves with views,2,Oct-Feb,19.94976,73.7818
+218,Sula Vineyards,Nashik ,Vineyard,Popular wine-tasting and tours,3,Nov-Feb,20.01005,73.75831
+219,York Winery,Nashik ,Vineyard,Quiet vineyard with guided tours,2,Nov-Feb,20.01195,73.76255
+220,Anjaneri Hills,Nashik ,Wildlife & Adventure,Birthplace of Lord Hanuman and trekking hotspot,3,Oct-Feb,19.96597,73.67459
+221,Trimbakeshwar Temple,Nashik ,Religious & Spiritual,One of the 12 Jyotirlingas,1.5,All Year,19.93165,73.53019
+222,Dudhsagar Falls (Nashik),Nashik ,Nature & Scenic,Seasonal monsoon waterfall,1,Jul-Sep,19.91462,73.77825
+223,Hargad Fort,Nashik ,Historical & Cultural,Hill fort near Trimbakeshwar,3,Nov-Feb,19.9419,73.5663
+224,Salher Fort,Nashik ,Historical & Cultural,Second-highest fort in Maharashtra,5,Oct-Feb,20.5662,73.8376
+225,Saptashrungi Temple,Nashik ,Religious & Spiritual,Famous hilltop goddess temple,2,All Year,20.2018,73.8193
+226,Nandur Madhyameshwar Bird Sanctuary,Nashik ,Wildlife & Adventure,Ramsar site with migratory birds,3,Nov-Feb,20.0753,74.0315
+227,Vaitarna Lake,Palghar,Nature & Scenic,Lake with boating & camping sites,2,Oct-Mar,19.6868,73.3651
+228,Jawhar Fort,Palghar,Historical & Cultural,Historic palace & fort area,2,Nov-Feb,19.9152,73.2296
+229,Dabhosa Waterfall,Palghar,Nature & Scenic,Massive waterfall great for trekking,2,Jul-Sep,19.718,72.9947
+230,Vikramgarh Lake,Palghar,Nature & Scenic,Scenic lake surrounded by hills,1,All Year,19.6234,73.0592
+231,Govardhan Eco Village,Palghar,Retreat,Green spiritual retreat,3,All Year,19.5986,73.2963
+232,Dahanu Beach,Palghar,Beaches & Waterfront,Quiet beach lined with chikoo farms,2,Nov-Feb,19.9816,72.7261
+233,Kelwa Beach,Palghar,Beaches & Waterfront,Popular weekend beach,2,Nov-Feb,19.7199,72.7396
+234,Pandharpur Vitthal Temple,Pandharpur,Religious & Spiritual,Important pilgrimage for Vithoba devotees,2,All Year,17.676641,75.329678
+235,Baneshwar Temple,Pune,Religious & Spiritual,Ancient Shiva temple inside forest with stream,1.5,All year,18.2044,73.8383
+236,Andharban Forest,Pune,Trekking & Adventure,Dark evergreen rainforest trek ending at Bhira dam,3,Jul-Sep,18.4473,73.3589
+237,Chintamani Temple,Pune,Religious & Spiritual,Ashtavinayak temple representing peace and wisdom,1.5,All year,18.5295,74.0448
+238,Mayureshwar Temple,Pune,Religious & Spiritual,Ashtavinayak Ganpati temple in Morgaon,1.5,All year,18.2748,74.456
+239,Shaniwar Wada,Pune,Historical & Cultural,Historic Peshwa-era palace fort,2,Oct-Feb,18.51952,73.855428
+240,Aga Khan Palace,Pune,Historical & Cultural,Freedom movement landmark and museum,1.5,Nov-Feb,18.552622,73.901817
+241,Sinhagad Fort,Pune,Historical & Cultural,Popular trekking and fort visit near Pune,4,Nov-Feb,18.366278,73.755882
+242,Dagdusheth Halwai Ganpati Temple,Pune,Religious & Spiritual,Famous Ganesh temple in city center,1,All Year,18.519902,73.856453
+243,Raja Dinkar Kelkar Museum,Pune,Historical & Cultural,Museum of Indian artifacts and crafts,1.5,All Year,18.516623,73.856933
+244,Pataleshwar Cave Temple,Pune,Nature & Scenic,Rock-cut ancient temple in the city,1,All Year,18.524502,73.847618
+245,Parvati Hill,Pune,Nature & Scenic,Hill with temples and city panorama,1.5,Oct-Feb,18.501842,73.852629
+246,Saras Baug,Pune,Nature & Scenic,Popular garden with Ganesh shrine,1,All Year,18.507748,73.853095
+247,Pashan Lake,Pune,Nature & Scenic,Tranquil lake with walking trails,1,Oct-Feb,18.546704,73.786713
+248,Rajiv Gandhi Zoological Park,Pune,Wildlife & Adventure,Well-maintained city zoo,2,Oct-Feb,18.457962,73.868368
+249,Khadakwasla Dam,Pune,Reservoir,Popular picnic spot with reservoir views,1.5,Oct-Feb,18.447586,73.782166
+250,Baner Hills Sunset Point,Pune,Nature & Scenic,Sunset viewpoint and light trek,1,Oct-Feb,18.56704,73.78738
+251,Lavasa City,Pune,Recreation,Planned lakeside hill city,2.5,Oct-Mar,18.405607,73.50519
+252,Torna Fort,Pune,Historical & Cultural,Shivaji-era fort and trek spot,4,Oct-Feb,18.278868,73.692471
+253,Rajgad Fort,Pune,Historical & Cultural,Large fort complex with ruins,4,Oct-Feb,18.24687,73.677456
+254,Shivneri Fort,Pune,Historical & Cultural,Birthplace of Chhatrapati Shivaji Maharaj,2.5,Oct-Feb,19.208814,73.862545
+255,Tamhini Ghat,Pune,Nature & Scenic,Scenic ghat route popular in monsoon,2.5,Jun-Oct,18.516056,73.373209
+256,Ashtavinayak Temples Circuit,Pune,Religious & Spiritual,Group of eight Ganesh temples circuit,10,All Year,18.516726,73.856255
+257,Dehu (Sant Tukaram),Pune,Historical & Cultural,Birthplace of Saint Tukaram,1,All Year,18.71918,73.771599
+258,Shivneri Viewpoint,Pune,Historical & Cultural,Viewpoint near Shivneri fort,0.75,Oct-Feb,19.209,73.863
+259,Bhuleshwar Temple,Pune,Religious & Spiritual,Ancient temple with interesting history,1,All Year,18.422,73.914
+260,Bhigwan Bird Sanctuary,Pune,Wildlife & Adventure,Seasonal flamingo sighting spot,2,Nov-Mar,18.86,74.386
+261,Kondeshwar Temple,Pune,Religious & Spiritual,Shiva temple near scenic waterfalls,1.5,Monsoon,19.173,73.76
+262,Devkund Waterfall,Pune,Nature & Scenic,Popular monsoon waterfall trek,3,Monsoon,19.191,73.66
+263,Apte Lake,Pune,Nature & Scenic,Calm lake area for relaxation,1,Oct-Feb,18.59,73.774
+264,ISKCON Temple,Pune,Religious & Spiritual,Large modern Krishna temple and cultural center,1.5,All Year,18.531,73.848
+265,Shaniwar Wada Light Show,Pune,Attraction,Evening sound & light show (seasonal),1,Peak Season,18.5195,73.855
+266,Jawahar Bal Bhavan,Pune,Urban & Modern Attractions,Children's recreation park and museum,1.5,All Year,18.52,73.852
+267,Velhe Fort,Pune,Historical & Cultural,Small fort with rural trek,2,Oct-Feb,18.361,73.665
+268,Pandav Leni,Pune,Nature & Scenic,Small local rock-cut caves and ruins,1,Oct-Mar,18.15,74.15
+269,Sinhagad Battle Plains,Pune,Historical & Cultural,Historic battlefield area near Sinhagad,1.5,Oct-Feb,18.366,73.756
+270,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Pune,Historical & Cultural,Rich collection of Maratha and Indian history,2,All Year,18.516726,73.856255
+271,Pashan Lake,Pune,Nature & Scenic,Peaceful lake ideal for walking and birdwatching,1,All Year,18.548421,73.792485
+272,Osho Garden,Pune,Nature & Scenic,Quiet meditation garden in Koregaon Park,1,All Year,18.536601,73.892578
+273,Lal Mahal,Pune,Historical & Cultural,Reconstructed palace where Shivaji Maharaj spent childhood,1,All Year,18.520968,73.85706
+274,Bund Garden,Pune,Nature & Scenic,Green park for picnics & boating,1,All Year,18.537993,73.883909
+275,Katraj Snake Park,Pune,Wildlife & Adventure,Popular reptile park with snake species,1.5,All Year,18.458364,73.865198
+276,Katraj Lake,Pune,Nature & Scenic,Scenic lake near Rajiv Gandhi Zoological Park,1,All Year,18.457021,73.865631
+277,Naneghat,Pune,Wildlife & Adventure,Scenic mountain pass with ancient inscriptions,3,Oct-Mar,19.327,73.858
+278,Junnar Caves,Pune,Nature & Scenic,Ancient Buddhist caves,2,All Year,19.2033,73.8636
+279,Lenyadri Caves,Pune,Nature & Scenic,Pilgrimage caves from 1st-3rd century AD,2,All Year,19.1878,73.8098
+280,Shivneri Fort,Pune,Historical & Cultural,Birthplace of Shivaji Maharaj,3,Oct-Mar,19.204585,73.854056
+281,Ballaleshwar Temple,Pune,Religious & Spiritual,One of the Ashtavinayak temples,1,All Year,18.75968,73.47209
+282,Wadgaon Maval Lake,Pune,Nature & Scenic,Popular lakeside picnic spot,2,All Year,18.71983,73.60832
+283,Blades of Glory Museum,Pune,Historical & Cultural,Cricket museum with rare memorabilia,1.5,All Year,18.51042,73.89323
+284,Rajiv Gandhi Zoological Park,Pune,Wildlife & Adventure,Large zoo with snake park,3,Nov-Feb,18.45761,73.86858
+285,Okayama Friendship Garden,Pune,Nature & Scenic,Japanese-themed landscape garden,1.5,Nov-Feb,18.48942,73.81921
+286,Pashan Lake,Pune,Nature & Scenic,Peaceful lake great for bird watching,1,All Year,18.54608,73.79246
+287,Chatushrungi Mata Temple,Pune,Religious & Spiritual,Famous hilltop temple with a great view,1,All Year,18.53753,73.82958
+288,Kasarsai Dam,Pune,Nature & Scenic,Beautiful dam with boating,2,All Year,18.63219,73.67791
+289,Kanifnath Temple,Pune,Religious & Spiritual,Hilltop temple requiring a short trek,2,All Year,18.42232,74.04031
+290,Ranjangoan Mahaganpati,Pune,Religious & Spiritual,Major Ashtavinayak Ganpati temple,1,All Year,18.65051,74.30149
+291,Bhimashankar Temple,Pune,Religious & Spiritual,Jyotirlinga temple in wildlife sanctuary,3,Oct-Feb,19.0738,73.5362
+292,Lenyadri Caves,Pune,Historical & Cultural,Ashtavinayak temple carved into mountain,2,Oct-Feb,19.1967,73.8899
+293,Ozar Ganpati,Pune,Religious & Spiritual,Ashtavinayak pilgrimage site,1,All Year,19.2666,73.9959
+294,Bhimthadi Jatra,Pune,Festival,Annual cultural fair in December,3,Dec,18.4488,74.0136
+295,Raigad Fort,Raigad,Historical & Cultural,Historic Maratha capital fort,4,Oct-Feb,18.234418,73.442586
+296,Amruteshwar Temple,Raigad,Religious & Spiritual,Ancient temple with local architecture,1,Oct-Mar,18.12,73.3
+297,Tamhini Ghat,Raigad,Nature & Scenic,Scenic mountain road with waterfalls,2,Jun-Sep,18.4572,73.4567
+298,Raigad Fort,Raigad,Historical & Cultural,Capital fort of Chhatrapati Shivaji Maharaj,4,Oct-Mar,18.2348,73.4393
+299,Kolad River Rafting,Raigad,Wildlife & Adventure,White water rafting spot,3,Oct-Mar,18.4198,73.216
+300,Ganpatipule Beach,Ratnagiri ,Beaches & Waterfront,Sandy beach with temple nearby,2.5,Nov-Feb,17.154371,73.269798
+301,Ratnagiri Lighthouse,Ratnagiri ,Urban & Modern Attractions,Coastal lighthouse viewpoint,0.75,Nov-Feb,16.992378,73.310628
+302,Phansad Wildlife Sanctuary,Ratnagiri ,Wildlife & Adventure,Coastal forest sanctuary,3,Nov-Feb,17.052,73.15
+303,Narayanpur Beach,Ratnagiri ,Beaches & Waterfront,Quiet sandy stretch,1.5,Nov-Feb,16.96,73.27
+304,Ratnagiri Marine Museum,Ratnagiri ,Historical & Cultural,Marine life museum by the beach,1,All Year,16.9919,73.3102
+305,Ganpatipule Beach,Ratnagiri ,Beaches & Waterfront,Famous white sand beach & temple,2,Oct-Mar,17.1489,73.264
+306,Thibaw Palace,Ratnagiri ,Historical & Cultural,Exile palace of Burmese King Thibaw,1,All Year,16.9962,73.3068
+307,Harihareshwar Beach,Ratnagiri ,Beaches & Waterfront,Serene beach with ancient temple,2,Oct-Mar,17.9912,73.0152
+308,Diveagar Beach,Ratnagiri ,Beaches & Waterfront,Peaceful long sandy beach,2,Oct-Mar,18.1439,72.9833
+309,Shrivardhan Beach,Ratnagiri ,Beaches & Waterfront,Clean beach with coastal vibes,2,Oct-Mar,18.0321,73.0155
+310,Marleshwar Temple,Ratnagiri ,Religious & Spiritual,Temple inside a mountain cave,1,All Year,17.2048,73.6238
+311,Rasalgad Fort,Ratnagiri ,Historical & Cultural,Small fort with views of Sahyadri Valley,3,Nov-Feb,17.7709,73.5621
+312,Jaigad Fort,Ratnagiri ,Historical & Cultural,Coastal fort overlooking Arabian Sea,2,Oct-Mar,17.2925,73.1929
+313,Thiba Palace,Ratnagiri ,Historical & Cultural,Historic palace of exiled Burmese king,1.5,All Year,16.9917,73.3128
+314,Ganpatipule Temple,Ratnagiri ,Religious & Spiritual,Famous seafront Ganesh temple,1,All Year,17.1498,73.2607
+315,Ganpatipule Beach,Ratnagiri ,Beaches & Waterfront,Beautiful beach next to the temple,2,Nov-Feb,17.1491,73.2649
+316,Arey Ware Beach,Ratnagiri ,Beaches & Waterfront,Scenic twin beaches with clean sand,2,Nov-Feb,17.0999,73.2454
+317,Prachin Konkan Museum,Ratnagiri ,Historical & Cultural,Cultural museum depicting Konkan life,1,All Year,17.1449,73.2659
+318,Marleshwar Temple,Ratnagiri ,Religious & Spiritual,Cave temple with surrounding waterfalls,2,Aug-Feb,17.3208,73.7055
+319,Parshuram Temple,Ratnagiri ,Religious & Spiritual,Ancient temple dedicated to Parshuram,1,All Year,17.5594,73.5099
+320,Guhagar Beach,Ratnagiri ,Beaches & Waterfront,Quiet clean beach perfect for relaxation,2,Nov-Feb,17.4723,73.1904
+321,Sagareshwar Wildlife Sanctuary,Sangli,Wildlife & Adventure,Artificial forest with deer & peacocks,2,Nov-Feb,17.1065,74.6092
+322,Thoseghar Waterfalls,Satara,Nature & Scenic,Series of tall  deep valley waterfalls,2,Jul-Sep,17.6822,73.8515
+323,Vajrai Waterfall,Satara,Nature & Scenic,India's tallest tiered waterfall,3,Jul-Sep,17.7016,73.8332
+324,Mahabaleshwar Hill Station,Satara,Nature & Scenic,Famous hill station with viewpoints,3.5,Oct-Mar,17.924606,73.658579
+325,Pratapgad Fort,Satara,Historical & Cultural,Famous fort near Mahabaleshwar,3,Oct-Feb,17.935532,73.578607
+326,Koyna Wildlife Sanctuary,Satara,Wildlife & Adventure,Forest reserve with trekking,4,Nov-May,17.63569,73.747595
+327,Satara,Satara,Nature & Scenic,Seasonal wildflower plateau (Historical & Cultural candidate),3,Aug-Oct,17.704207,73.799501
+328,Ajinkyatara Fort,Satara,Historical & Cultural,Historic fort with city views,2,Oct-Feb,17.676616,73.993286
+329,Kaas Plateau Viewpoint,Satara,Nature & Scenic,Entry point for Kaas plateau,1.5,Aug-Oct,17.7039,73.7995
+330,Pratapgad Temple,Satara,Religious & Spiritual,Temple near Pratapgad fort,1,Oct-Feb,17.936,73.579
+331,Wai Lake (Dhom),Satara,Nature & Scenic,Reservoir and water sports ,2,Oct-Mar,17.99,73.876
+332,Wilson Dam (Koyna),Satara,Nature & Scenic,Hydroelectric dam and scenic viewpoint,1.5,Oct-Mar,17.321,73.822
+333,Shirdi Sai Baba Temple,Shirdi,Religious & Spiritual,Major pilgrimage center for Sai Baba devotees,3,All Year,19.76761,74.477335
+334,Narayan Maharaj Temple,Shirdi,Religious & Spiritual,Local shrine near Shirdi,0.75,All Year,19.767,74.478
+335,Shirdi Sai Baba Samadhi Mandir,Shirdi,Religious & Spiritual,Famous temple of Sai Baba,2,All Year,19.766944,74.477778
+336,Lendi Baug,Shirdi,Nature & Scenic,Pilgrimage garden where Sai Baba meditated,1,All Year,19.767212,74.477997
+337,Dwarkamai,Shirdi,Religious & Spiritual,Historic mosque where Sai Baba lived,1,All Year,19.764203,74.47688
+338,Shani Mandir,Shirdi,Religious & Spiritual,Famous Shani temple near Shirdi,1,All Year,19.7564,74.4836
+339,Prasadalaya,Shirdi,Food,Large community dining hall,1,All Year,19.76472,74.47861
+340,Velas Beach,Sindhudurg ,Beaches & Waterfront,Turtle nesting site (seasonal),3,Dec-Mar,17.9342,73.077157
+341,Shrivardhan Beach,Sindhudurg ,Beaches & Waterfront,Scenic Konkan coastline beach,2,Nov-Feb,18.042708,73.015049
+342,Murud-Janjira Fort,Sindhudurg ,Historical & Cultural,Sea fort famous for its strong walls,2,Nov-Feb,18.301121,72.964303
+343,Tarkarli Beach,Sindhudurg ,Beaches & Waterfront,White sand and scuba diving,3.5,Nov-Feb,16.039839,73.489505
+344,Sindhudurg Fort,Sindhudurg ,Historical & Cultural,Island fort built by Marathas,3,Nov-Feb,16.051967,73.462141
+345,Revdanda Fort,Sindhudurg ,Historical & Cultural,Coastal fort and historic remains,1.5,Oct-Mar,18.5625,72.885
+346,Alibaug Beach,Sindhudurg ,Beaches & Waterfront,Popular weekend beach from Mumbai,2,Oct-Mar,18.644,72.872
+347,Sindhudurg National Park,Sindhudurg ,Beaches & Waterfront,Marine biodiversity and protected area,3,Nov-Feb,16.04,73.5
+348,Murud Beach,Sindhudurg ,Beaches & Waterfront,Calm local beach and fishing village,1.5,Oct-Mar,18.3,72.97
+349,Janjira Light House,Sindhudurg ,Urban & Modern Attractions,Coastal lighthouse viewpoint,0.5,Oct-Mar,18.308,72.962
+350,Revdanda Beach,Sindhudurg ,Beaches & Waterfront,Quiet beach with black sand,2,Oct-Mar,18.553,72.919
+351,Kihim Beach,Sindhudurg ,Beaches & Waterfront,Popular beach known for water sports,2,Oct-Mar,18.6658,72.8736
+352,Murud Janjira Fort,Sindhudurg ,Historical & Cultural,Sea fort protected by water,3,Oct-Mar,18.2986,72.9653
+353,Kanakeshwar Forest,Sindhudurg ,Nature & Scenic,Forest trail with temple at top,2,Oct-Mar,18.6502,72.8986
+354,Nagaon Beach,Sindhudurg ,Beaches & Waterfront,Sandy beach with water sports,2,Oct-Mar,18.5969,72.8566
+355,Revdanda Fort,Sindhudurg ,Historical & Cultural,Ruins of Portuguese fort by the beach,2,Nov-Feb,18.5536,72.9313
+356,Korlai Fort,Sindhudurg ,Historical & Cultural,Seaside fort offering splendid views,2,Nov-Feb,18.5131,72.9119
+357,Kihim Beach,Sindhudurg ,Beaches & Waterfront,Clean beach with water sports options,2,Nov-Feb,18.6481,72.8726
+358,Mandwa Beach,Sindhudurg ,Beaches & Waterfront,Beach near ferry terminal with activities,2,Nov-Feb,18.8119,72.9214
+359,Nagaon Beach,Sindhudurg ,Beaches & Waterfront,Popular beach for families & water sports,2,Nov-Feb,18.5688,72.8927
+360,Kashid Beach,Sindhudurg ,Beaches & Waterfront,White sand beach with clear water,2,Nov-Feb,18.4378,72.9071
+361,Murud Janjira Fort,Sindhudurg ,Historical & Cultural,Sea fort accessible by boat,3,Oct-Mar,18.2962,72.9659
+362,Phansad Wildlife Sanctuary,Sindhudurg ,Wildlife & Adventure,Dense forest ideal for wildlife lovers,3,Nov-Feb,18.4272,72.963
+363,Amboli Waterfall,Sindhudurg ,Nature & Scenic,Monsoon waterfall in hill station,1.5,Jul-Sep,15.9568,74.0032
+364,Hiranyakeshi Temple,Sindhudurg ,Religious & Spiritual,Temple near river origin,1,All Year,15.958,74.0364
+365,Madyanadgi Falls,Sindhudurg ,Nature & Scenic,Hidden monsoon waterfall,1.5,Jul-Sep,15.8317,73.9176
+366,Tarkarli Beach,Sindhudurg ,Beaches & Waterfront,Crystal clear beach known for scuba diving,3,Nov-Feb,16.0331,73.4894
+367,Devbag Beach,Sindhudurg ,Beaches & Waterfront,Pristine beach meeting Karli river,2,Nov-Feb,16.0158,73.4883
+368,Malvan Fort,Sindhudurg ,Historical & Cultural,Sea fort built by Shivaji Maharaj,2,Oct-Feb,16.0555,73.4674
+369,Vengurla Lighthouse,Sindhudurg ,Nature & Scenic,Scenic lighthouse offering sea views,1,Nov-Feb,15.8634,73.6332
+370,Devgad Beach,Sindhudurg ,Beaches & Waterfront,Beautiful beach with soft sand,2,Nov-Feb,16.3848,73.399
+371,Redi Ganpati Temple,Sindhudurg ,Religious & Spiritual,Popular cliffside Ganpati temple,1,All Year,15.7451,73.6428
+372,Shiroda Beach,Sindhudurg ,Beaches & Waterfront,Serene beach with clear waters,2,Nov-Feb,15.7238,73.6773
+373,Amboli Ghat,Sindhudurg ,Nature & Scenic,Misty ghat road with viewpoints,1.5,Jul-Sep,15.9797,74.0198
